@@ -29,6 +29,7 @@ Analysis: Bar graph clearly compares values across categories, & highlights dram
 Results: Juice has the highest average edible yield per dollar, making it the most cost-effective fruit form overall. Fresh fruit ranks closely behind juice, showing strong average value despite price variability across individual fruits. Consumers can use this data to choose juice or fresh fruits when looking for the best value per dollar spent. Producers and retailers may emphasize juice products in marketing as cost-efficient and high-yield. Meal planners, schools, and institutions might prioritize higher-yield forms to stretch budgets. Dried fruit brands could reframe their products as premium or snack-focused, rather than bulk nutritional value. This average-based analysis supports strategic product development, pricing, and purchasing decisions across the supply chain.
 
 Tableau Package Workbook:
+
 <img width="640" alt="Screenshot 2025-05-01 at 9 28 10 PM" src="https://github.com/user-attachments/assets/a3a284c4-4e9f-4c92-8195-c7dcd890fc56" />
 <img width="612" alt="Screenshot 2025-05-01 at 9 28 25 PM" src="https://github.com/user-attachments/assets/5b67ea9f-33c7-4546-8dcf-ab87b86ba661" />
 
